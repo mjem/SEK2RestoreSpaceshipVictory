@@ -1,0 +1,9 @@
+{
+  "name": "SEK2RestoreSpaceshipVictory",
+  "version": "1.0.0",
+  "title": "Restore Spaceship Victory in SE+K2 runs",
+  "author": "Mike Elson",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Enables the Spaceship Victory from Space Exploration mod even if disabled by Krastorio2"
+}
